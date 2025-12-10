@@ -168,6 +168,7 @@ nav,
 .banner-social-links {
   display: flex;
   align-items: center;
+  
 }
 .banner-social-links > li {
   margin-left: 16px;
@@ -455,5 +456,7 @@ footer {
   .footer-navigation> .banner-social-links {
   margin:0 ;
   max-width: 100%;
+  display: flex;
+  justify-content: center;
 }
 }
